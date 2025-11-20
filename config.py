@@ -9,4 +9,4 @@ WELCOME_TEXT = """
 MINI_APP_URL = "https://example.com"
 WELCOME_IMAGE = "welcome.jpg" # здесь у нас приветственная картинка
 
-WEBHOOK_URL = "https://your-render-url.onrender.com/webhook"   # URL Render
+WEBHOOK_URL = "https://project-1-3fc2.onrender.com/webhook"   # URL Render
